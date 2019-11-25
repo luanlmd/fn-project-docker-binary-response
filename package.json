@@ -1,0 +1,11 @@
+{
+	"name": "imagedims",
+	"version": "1.0.0",
+	"description": "Function using ImageMagick that returns dimensions",
+	"main": "func.js",
+	"author": "fnproject.io",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.15"
+	}
+}

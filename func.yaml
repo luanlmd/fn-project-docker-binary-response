@@ -1,0 +1,8 @@
+schema_version: 20180708
+name: binary
+version: 0.0.35
+runtime: docker
+triggers:
+- name: binary-trigger
+  type: http
+  source: /binary
